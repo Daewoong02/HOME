@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\data-structure-lab-2024-1\\Chap01_DS_Algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A81613D-F047-4345-B6FD-6B4DFBB800A6}|Chap01_FindMax\\Chap01_FindMax.vcxproj|C:\\Users\\User\\Desktop\\data-structure-lab-2024-1\\Chap01_DS_Algorithm\\Chap01_FindMax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A81613D-F047-4345-B6FD-6B4DFBB800A6}|Chap01_FindMax\\Chap01_FindMax.vcxproj|solutionrelative:Chap01_FindMax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F359890D-DDEE-4B50-A266-8D6DEE40996A}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\User\\Desktop\\data-structure-lab-2024-1\\Chap01_DS_Algorithm\\HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F359890D-DDEE-4B50-A266-8D6DEE40996A}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "find_max.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\data-structure-lab-2024-1\\Chap01_DS_Algorithm\\Chap01_FindMax\\find_max.cpp",
+              "RelativeDocumentMoniker": "Chap01_FindMax\\find_max.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\data-structure-lab-2024-1\\Chap01_DS_Algorithm\\Chap01_FindMax\\find_max.cpp",
+              "RelativeToolTip": "Chap01_FindMax\\find_max.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T11:05:20.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "hello_world.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\data-structure-lab-2024-1\\Chap01_DS_Algorithm\\HelloWorld\\hello_world.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\hello_world.cpp",
